@@ -1,2 +1,2 @@
 # 2016-Summer-Olympics-Explorer-MAUI-.NET
-This application allows users to explore detailed information about the 2016 Summer Olympics
+This application is a C# Maui application built with XAML that allows users to explore detailed information about the 2016 Summer Olympics. It features interactive ListViews for countries, sports, events, and athletes—with medal highlights—and provides pop-up details for individual athletes. Efficiently managing data through an embedded TSV file and SQLite ensures fast performance after the initial setup.
